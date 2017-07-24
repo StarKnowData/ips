@@ -10,6 +10,8 @@ NOTE: This is Simplelified Chinese Edition Document of Markdown Syntax. If you a
 
 ![](https://ws1.sinaimg.cn/large/43fb1706gy1fhv3f41eulj2074074mx7.jpg)
 
+![](http://otl95xeex.bkt.clouddn.com/logo.png)
+
 ## 产品规范适用范围
 
 - 程序员
