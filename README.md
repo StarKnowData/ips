@@ -8,6 +8,8 @@ NOTE: This is Simplelified Chinese Edition Document of Markdown Syntax. If you a
 
 *** AD: 本网站托管于具备 SSD 硬盘的 DigitalOcean.com VPS 服务商，点击此处进入购买，即可免费获赠 10USD 优惠款！
 
+![](https://ws1.sinaimg.cn/large/43fb1706gy1fhv3f41eulj2074074mx7.jpg)
+
 
 
 ## 产品规范适用范围
