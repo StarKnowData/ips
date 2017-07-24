@@ -10,7 +10,7 @@ NOTE: This is Simplelified Chinese Edition Document of Markdown Syntax. If you a
 
 ![](https://ws1.sinaimg.cn/large/43fb1706gy1fhv3f41eulj2074074mx7.jpg)
 
-
+![](http://oij2bhpdo.bkt.clouddn.com/5b2659ea57184cb2a61623070fa3dcab.jpg)
 
 ## 产品规范适用范围
 
