@@ -42,4 +42,11 @@ NOTE: This is Simplelified Chinese Edition Document of Markdown Syntax. If you a
 ## 图片
 
 ![](http://proc.iifs.ifeng.com/blog/2015/04/25/l6KhypeThZeboZy51q2FkJujvJWZoZqpya!Yp2Vra5pubGqbb2yQwm2XZ5aX3mRmlJLCZJWPYZLBo6eX.jpg)
-###### 六级标题
+
+## 表格
+
+| #   | 姓名  | 性别  | 爱好  |
+| --- | --- | --- | --- |
+| 1   | 王莹莹 | 男   | 男   |
+| 2   | 段浩然 | 女   | 女   |
+| 3   | 梁新宇 | 女   | 男   |
