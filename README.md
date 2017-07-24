@@ -39,5 +39,7 @@ NOTE: This is Simplelified Chinese Edition Document of Markdown Syntax. If you a
 
 产品中要遵守国际标准的规范,其中货币请[参考](http://www.baidu.com).
 
-##### 五级标题
+## 图片
+
+![](http://proc.iifs.ifeng.com/blog/2015/04/25/l6KhypeThZeboZy51q2FkJujvJWZoZqpya!Yp2Vra5pubGqbb2yQwm2XZ5aX3mRmlJLCZJWPYZLBo6eX.jpg)
 ###### 六级标题
