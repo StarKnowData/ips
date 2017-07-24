@@ -35,6 +35,9 @@ NOTE: This is Simplelified Chinese Edition Document of Markdown Syntax. If you a
 
 
 
-#### 四级标题
+## 产品规范,货币,时区,语言
+
+产品中要遵守国际标准的规范,其中货币请[参考](http://www.baidu.com).
+
 ##### 五级标题
 ###### 六级标题
